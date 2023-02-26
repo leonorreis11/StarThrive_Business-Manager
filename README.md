@@ -10,9 +10,11 @@ c. District
 d. Annual expense
 e. Annual recipe
 f. Profit (yes/no)
+
 2. For each type of company, present the company with the highest annual revenue
 (name and value), the company with the lowest annual expense (name and value) and
 the company with the highest annual profit (name and profit value).
+
 3. Present the 2 catering companies with the highest number of customers per day.
 The interaction with the user must be carried out through a simple JAVA graphical interface
 (JFrames) that allows the user to:
