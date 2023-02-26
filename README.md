@@ -18,6 +18,7 @@ The interaction with the user must be carried out through a simple JAVA graphica
 (JFrames) that allows the user to:
 a. List, create, edit and delete companies.
 b. Present the requested listings and indicators.
+
 The application must be provided with a text file (starthrive.txt) containing data on at least 5
 companies of each category in order to demonstrate all the application's features. The
 structure of the text file must be defined by the student in order to allow the easy and fast
