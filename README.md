@@ -5,17 +5,17 @@ The application, to be used by a StarThrive employee, should allow the productio
 and indicators presented below.
 1. List of companies managed by StarThrive presenting at least the following information
 
-a. Company name
+ a. Company name
 
-b. Type of company
+ b. Type of company
 
-c. District
+ c. District
 
-d. Annual expense
+ d. Annual expense
 
-e. Annual recipe
+ e. Annual recipe
 
-f. Profit (yes/no)
+ f. Profit (yes/no)
 
 
 2. For each type of company, present the company with the highest annual revenue
